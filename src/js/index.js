@@ -23,8 +23,6 @@ btnGenerator.addEventListener('click', () => {
 
 getAdvices()
 
-//testando git
-
 
 
 
